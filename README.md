@@ -1,11 +1,14 @@
 # Comment-App
 
-This is a  Simple web app built with React.js.
+This is a  Simple web app built with React.js and semantic-UI.
+Feel free to contribute if you'd like to!
 
 # Getting Started
 
-Checkout the repository onto your local machine.
-you don't need to install anything to contribute to this project!
+Clone the repository onto your local machine.
+
+Run ``` npm install ``` to add needed dependencies.
+Run ``` npm start ``` to get the app running locally.
 
 # Happy Coding
 
