@@ -5,10 +5,9 @@ Feel free to contribute if you'd like to!
 
 # Getting Started
 
-Clone the repository onto your local machine.
-
-Run ``` npm install ``` to add needed dependencies.
-Run ``` npm start ``` to get the app running locally.
++ Clone the repository onto your local machine.
++ Run ``` npm install ``` to add needed dependencies.
++ Run ``` npm start ``` to get the app running locally.
 
 # Happy Coding
 
